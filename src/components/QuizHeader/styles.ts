@@ -17,7 +17,7 @@ export const styles = StyleSheet.create({
   },
   title: {
     fontFamily: THEME.FONTS.BOLD,
-    color: THEME.COLORS.GREY_100,
+    color: THEME.COLORS.GRAY_100,
     fontSize: 16,
   },
   question: {

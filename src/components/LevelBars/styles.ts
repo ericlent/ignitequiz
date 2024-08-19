@@ -8,7 +8,7 @@ export const styles = StyleSheet.create({
   },
   level: {
     width: 4,
-    backgroundColor: THEME.COLORS.GREY_500,
+    backgroundColor: THEME.COLORS.GRAY_500,
     borderRadius: 6,
     marginLeft: 4
   },
