@@ -83,7 +83,6 @@ export function History() {
               </TouchableOpacity>
               */}
 
-              {/*
               <Swipeable
                 ref={(ref) => {
                   if (ref) {
@@ -102,8 +101,9 @@ export function History() {
               >
                 <HistoryCard data={item} />
               </Swipeable>
-              */}
 
+              {//Remover item puxando para o lado
+              /*
               <Swipeable
                 ref={(ref) => {
                   if (ref) {
@@ -123,6 +123,7 @@ export function History() {
               >
                 <HistoryCard data={item} />
               </Swipeable>
+              */}
 
             </Animated.View>
           ))
